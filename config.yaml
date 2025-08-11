@@ -1,0 +1,10 @@
+start: "2015-01-01"
+end: "2025-08-01"
+rebalance: "M"
+top_n: 10
+factor_windows_days:
+  mom_1m: 21
+  mom_3m: 63
+  mom_12m: 252
+  vol_3m: 63
+risk_free_rate_annual: 0.0
